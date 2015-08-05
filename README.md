@@ -1,2 +1,2 @@
 # calculator
-** super calc
+* super calc
